@@ -14,4 +14,4 @@ class ProductManager(Role):
                  constraints=""):
         super().__init__(name, profile, goal, constraints)
         self._init_actions([WritePRD])
-        self._watch([BossRequirement])
+        """self._watch([BossRequirement])""""
