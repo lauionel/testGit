@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-提供配置，单例
+TESTING UPDATE
 """
 import os
 import openai
